@@ -27,10 +27,10 @@
 </p>
 
 
-### 🧰 Frameworks and libraries
+### 🚀 Frameworks and libraries
 
 <p>
-     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-F2F4F9?style=for-the-badge&logo=spring&logoColor=white&style=plastic"></a> 
+     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a> 
 </p>
 
@@ -60,7 +60,7 @@
 </p>
 
 
-### 👨 Social 🔝
+### 👨 Social 
 
 <p>
  <a href="#"><img alt="GitHub" src=	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
