@@ -19,7 +19,7 @@
 ## 🛠️ My Tools
 <br/>
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming Languages
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=plastic"></a>
@@ -27,7 +27,7 @@
 </p>
 
 
-### 🚀 Frameworks and libraries
+### 🚀 Frameworks and Libraries
 
 <p>
      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
@@ -42,7 +42,7 @@
 </p>
 
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -50,7 +50,7 @@
 </p>
 
 
-### 💻 Software and tools
+### 💻 Software and Tools
 
 <p>
     <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
@@ -67,6 +67,8 @@
  <a href="#"><img alt="GitLab" src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white></a>
  <a href="#"><img alt="Stack_Overflow" src= https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white></a>
 </p>
+
+## 📊 Github stats
 
 <p>
  <a href="#"><img alt="FaridMaIikov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaridMaIikov&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
