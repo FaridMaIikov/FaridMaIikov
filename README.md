@@ -26,18 +26,29 @@
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
+
 ### 🧰 Frameworks and libraries
 
 <p>
      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=plastic"></a> 
+     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a> 
 </p>
+
+
+### 🔒 Security Platforms
+
+<p>
+ <a href="#"><img alt="Spring Security" src=https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white></a> 
+</p>
+
 
 ### 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="MySql" src ="http://img.shields.io/badge/mysql-%2300f.svg?logo=mysqll&logoColor=white"></a>
+    <a href="#"><img alt="MySql" src ="http://img.shields.io/badge/Mysql-%2300f.svg?logo=mysqll&logoColor=white"></a>
 </p>
+
 
 ### 💻 Software and tools
 
@@ -46,6 +57,15 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=plastic"></a>
+</p>
+
+
+###👨 Social 🔝
+
+<p>
+ <a href="#"><img alt="GitHub" src=	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
+ <a href="#"><img alt="GitLab" src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white></a>
+ <a href="#"><img alt="Stack_Overflow" src= https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white></a>
 </p>
 
 <p>
