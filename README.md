@@ -47,3 +47,8 @@
     <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=plastic"></a>
 </p>
+
+<p>
+ <a href="#"><img alt="FaridMaIikov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaridMaIikov&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="#"><img alt="FaridMaIikov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridMaIikov&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<p>
