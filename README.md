@@ -71,6 +71,6 @@
 ## 📊 Github stats
 
 <p>
- <a href="#"><img alt="FaridMaIikov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaridMaIikov&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="190px"/></a>
+ <a href="#"><img alt="FaridMaIikov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaridMaIikov&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="190px"/></a> 
   <a href="#"><img alt="FaridMaIikov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridMaIikov&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="190px"/></a>
 <p>
