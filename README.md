@@ -1,6 +1,6 @@
 <h2>Hi, I'm <strong>Farid Malikov</strong></h2>
 <hr>
-<h3>I am Java Developer . I have been interested in programming for some time</h3>
+<h3>I'm Java Developer . I have been interested in programming for some time</h3>
 
 <hr>
 
