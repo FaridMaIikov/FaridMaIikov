@@ -1,6 +1,6 @@
 <h2>Hi, I'm <strong>Farid Malikov</strong></h2>
 <hr>
-<h3>I'm Java Developer . I have been interested in programming for some time</h3>
+<h3>I'm Java Developer. I am always ready to learn new technologies.Therefore, I constantly try to develop mytechnological skills and apply them correctly and accurately in software development.</h3>
 
 <hr>
 
